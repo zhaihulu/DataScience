@@ -4,7 +4,7 @@
 | 章节名 | 内容说明| 链接地址|
 |:------------ |:------------ |:---------------:|
 | 2.1	Python运行环境Anaconda的安装 | 2.1.1	下载及安装Anaconda | https://www.anaconda.com/download/ |
-| 2.2	在线运行Python代码 | 2.2.2	尝试打开在线程序代码| https://mybinder.org/v2/gh/wshuyi/demo-spacy-text-processing/master?urlpath=lab/tree/demo.ipynb |
+| 2.2	在线运行Python代码 | 2.2.2	尝试打开在线程序代码| http://t.cn/R35fElv |
 | 2.2	在线运行Python代码 | 2.2.3	在线运行Python的实现过程（样例） | https://github.com/wshuyi/demo-spacy-text-processing |
 | 2.3	克隆教程代码 | 2.3.2	克隆环境流程 | https://codeload.github.com/wshuyi/demo-python-scrape-webpage-with-requests-html/zip/master |
 | 3.1	词云制作 | 3.1.2	安装wordcloud并制作词云 | https://github.com/wshuyi/demo-Python-wordcloud/archive/master.zip |
@@ -27,7 +27,6 @@
 | 6.3	舆情时间序列可视化 | 6.3.2	读取数据并安装依赖包 |   |
 | 6.4	对故事情节做情绪分析 | 6.4.2	数据准备 |   |
 | 6.6	Gensim 调用中文词嵌入预训练模型（视频教程） | 6.6	Gensim 调用中文词嵌入预训练模型（视频教程） | http://t.cn/RBSyEhp |
-| 6.6	Gensim 调用中文词嵌入预训练模型（视频教程） | 6.6	Gensim 调用中文词嵌入预训练模型（视频教程） | http://t.cn/R1T4400（三国数据） |
 | 7.1	机器学习做决策支持 | 7.1.4	数据准备与运行环境 | http://22j.co/bCg7 |
 | 7.2	中文文本情感分类模型 | 7.2.5	中文的向量化 | http://22j.co/bCuW  |
 | 8.1	如何锁定即将流失的客户 | 8.1.2	运行环境 | https://raw.githubusercontent.com/wshuyi/demo-customer-churn-ann/master/customer_churn.csv |
