@@ -1,5 +1,5 @@
 # DataScience_Dataset
-请访问本书的资源链接地址https://github.com/zhaihulu/DataScience/ ，访问对应章节的样例
+
 
 | 章节名 | 内容说明| 链接地址|
 |:------------ |:------------ |:---------------:|
