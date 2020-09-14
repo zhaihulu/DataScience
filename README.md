@@ -22,14 +22,14 @@
 | 5.2	批量提取PDF文本内容 | 5.2.2	下载实验数据 | http://suo.im/5OZXOJ |
 | 5.3	智能批量压缩图片 | 5.3.2	准备好的数据 | http://suo.im/5WLgW6 |
 | 5.4	安装Python软件包遇错误，怎么办？ | 5.4.5	生成PDF词云的过程 | http://22j.co/bBGz |
-| 6.4	对故事情节做情绪分析 |6.4.2	数据准备 | http://22j.co/bBGz！！！ |
-| 6.5	Spacy与词嵌入 | 6.5 | http://t.cn/RBSyEhp！！！ |
-| 6.5	Spacy与词嵌入 | 6.6 | http://t.cn/R1T4400（三国数据） |
+| 6.1	提取中文关键词 | 6.1.1	文件编码问题 |   |
+| 6.6	Gensim 调用中文词嵌入预训练模型（视频教程） | 6.6	Gensim 调用中文词嵌入预训练模型（视频教程） | http://t.cn/RBSyEhp |
+| 6.6	Gensim 调用中文词嵌入预训练模型（视频教程） | 6.6	Gensim 调用中文词嵌入预训练模型（视频教程） | http://t.cn/R1T4400（三国数据） |
 | 7.1	机器学习做决策支持 | 7.1.4	数据准备与运行环境 | http://22j.co/bCg7 |
 | 7.2	中文文本情感分类模型 | 7.2.5	中文的向量化 | http://22j.co/bCuW  |
 | 8.1	如何锁定即将流失的客户 | 8.1.2	运行环境 | https://raw.githubusercontent.com/wshuyi/demo-customer-churn-ann/master/customer_churn.csv |
 | 8.2	识别动物图像 | 8.2.2	学习数据 | https://github.com/wshuyi/demo-Python-image-classification/archive/master.zip |
 | 8.3	寻找近似图片 | 8.3.2	数据与配置环境 | https://github.com/wshuyi/demo-Python-image-similarity/archive/master.zip |
 | 8.4	循环神经网络（RNN）做中文文本分类 | 8.4.2	数据环境 | https://github.com/wshuyi/demo-chinese-text-classification-lstm-keras.git |
-| 8.5	循环神经网络预测严重交通拥堵 | 6.6 | https://github.com/wshuyi/demo_traffic_jam_prediction.git |
+| 8.5	循环神经网络预测严重交通拥堵 | 8.5.2	数据准备与配置环境 | https://github.com/wshuyi/demo_traffic_jam_prediction.git |
 | 8.6	用Tensorflow神经网络分类表格数据 | 8.6.2	实验数据 | https://raw.githubusercontent.com/wshuyi/demo-customer-churn-ann/master/customer_churn.csv |
