@@ -6,7 +6,7 @@
 | 2.1	Python运行环境Anaconda的安装 | 2.1.1	下载及安装Anaconda | https://www.anaconda.com/download/ |
 | 2.2	在线运行Python代码 | 2.2.2	尝试打开在线程序代码| http://t.cn/R35fElv |
 | 2.2	在线运行Python代码 | 2.2.3	在线运行Python的实现过程（样例） | https://github.com/wshuyi/demo-spacy-text-processing |
-| 2.3	克隆教程代码 | 2.3.2	克隆环境流程 | https://codeload.github.com/wshuyi/demo-python-scrape-webpage-with-requests-html/zip/master |
+| 2.3	克隆教程代码 | 2.3.2	克隆环境流程 | http://t.cn/R3usDi9 |
 | 3.1	词云制作 | 3.1.2	安装wordcloud并制作词云 | https://github.com/wshuyi/demo-Python-wordcloud/archive/master.zip |
 | 3.2	中文分词 | 3.2.4	制作中文词云 | http://suo.im/5Fx0u7 |
 | 3.4	分析美国犯罪记录开放数据 | 3.4.1	政府开放数据 | http://suo.im/5Fx0u7 |
@@ -22,10 +22,9 @@
 | 5.2	批量提取PDF文本内容 | 5.2.2	下载实验数据 | http://suo.im/5OZXOJ |
 | 5.3	智能批量压缩图片 | 5.3.2	准备好的数据 | http://suo.im/5WLgW6 |
 | 5.4	安装Python软件包遇错误，怎么办？ | 5.4.5	生成PDF词云的过程 | http://22j.co/bBGz |
-| 6.1	提取中文关键词 | 6.1.1	文件编码问题 |   |
-| 6.2	情感分析 | 6.2.1	安装情感分析依赖包 |   |
-| 6.3	舆情时间序列可视化 | 6.3.2	读取数据并安装依赖包 |   |
-| 6.4	对故事情节做情绪分析 | 6.4.2	数据准备 |   |
+| 6.1	提取中文关键词 | 6.1.1	文件编码问题 | https://github.com/wshuyi/demo-keyword-extraction/archive/master.zip  |
+| 6.3	舆情时间序列可视化 | 6.3.2	读取数据并安装依赖包 | https://github.com/wshuyi/workshop-NKU-mlis-20170702/raw/master/restaurant-comments.xlsx |
+| 6.4	对故事情节做情绪分析 | 6.4.2	数据准备 | s03e09.txt |
 | 6.6	Gensim 调用中文词嵌入预训练模型（视频教程） | 6.6	Gensim 调用中文词嵌入预训练模型（视频教程） | http://t.cn/RBSyEhp |
 | 7.1	机器学习做决策支持 | 7.1.4	数据准备与运行环境 | http://22j.co/bCg7 |
 | 7.2	中文文本情感分类模型 | 7.2.5	中文的向量化 | http://22j.co/bCuW  |
