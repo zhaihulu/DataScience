@@ -28,6 +28,7 @@
 | 6.6	Gensim 调用中文词嵌入预训练模型（视频教程） | 6.6	Gensim 调用中文词嵌入预训练模型（视频教程） | http://t.cn/RBSyEhp |
 | 7.1	机器学习做决策支持 | 7.1.4	数据准备与运行环境 | http://22j.co/bCg7 |
 | 7.2	中文文本情感分类模型 | 7.2.5	中文的向量化 | http://22j.co/bCuW  |
+| 7.3	从海量文本抽取主题 | 7.3.3	安装依赖包 | https://s3-us-west-2.amazonaws.com/notion-static/8426b8d7145a4c898566145621b4b906/datascience.csv  |
 | 8.1	如何锁定即将流失的客户 | 8.1.2	运行环境 | https://raw.githubusercontent.com/wshuyi/demo-customer-churn-ann/master/customer_churn.csv |
 | 8.2	识别动物图像 | 8.2.2	学习数据 | https://github.com/wshuyi/demo-Python-image-classification/archive/master.zip |
 | 8.3	寻找近似图片 | 8.3.2	数据与配置环境 | https://github.com/wshuyi/demo-Python-image-similarity/archive/master.zip |
