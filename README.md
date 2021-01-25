@@ -9,5 +9,7 @@
 | 3.6	用R语言快速探索数据集 | 3.6.1	启动Rstudio | http://t.cn/Rg1JFfo |
 | 3.6	用R语言快速探索数据集 | 3.6.3	使用summarytools包 | http://t.cn/Rg1XCCN |
 | 4.2	利用API 收集与分析网络数据 | 4.2.3	代码运行环境 | http://t.cn/R3us4Ao |
+| 6.5	Spacy与词嵌入|en_core_web_lg下载地址| https://github.com/explosion/spacy-models/releases/tag/en_core_web_lg-2.3.0 |
+| 6.5	Spacy与词嵌入|en_core_web_sm下载地址| https://github.com/explosion/spacy-models/releases/tag/en_core_web_sm-2.3.0 |
 | 6.6	Gensim 调用中文词嵌入预训练模型（视频教程） | 6.6	Gensim 调用中文词嵌入预训练模型（视频教程） | http://t.cn/RBSyEhp |
 
